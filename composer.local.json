@@ -1,0 +1,23 @@
+{
+	"require": {
+		"mediawiki/bootstrap": "~1",
+		"mediawiki/chameleon-skin": "~1",
+		"mediawiki/lingo": "~2",
+		"mediawiki/maps": "~5",
+		"mediawiki/parser-hooks": "~1",
+		"mediawiki/simple-batch-upload": "~1",
+		"mediawiki/validator": "~2",
+		"mediawiki/semantic-cite": "~1",
+		"mediawiki/semantic-compound-queries": "~1",
+		"mediawiki/semantic-breadcrumb-links": "~1",
+		"mediawiki/semantic-extra-special-properties": "~1",
+		"mediawiki/semantic-glossary": "~2",
+		"mediawiki/semantic-media-wiki": "~2.5",
+		"mediawiki/semantic-meta-tags": "~1",
+		"mediawiki/semantic-result-formats": "~2"
+	},
+	"config": {
+		"preferred-install": "source",
+		"optimize-autoloader": true
+	}
+}
